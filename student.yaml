@@ -1,0 +1,39 @@
+- name: "jayani"
+  dob: "01-01-01"
+  age: 21
+  addresses:
+  - doorNo: 7-32
+    street: "lic building"
+    city: tuni
+    pin: 533401
+    type: current
+
+  - doorNo: 7-32
+    street: "lic building
+    city: tuni
+    pin: 533401
+    type: current
+  skills:
+  - java
+  - devops
+  - cloud
+
+- name: "suresh"
+  dob: "01-01-01"
+  age: 21
+  addresses:
+  - doorNo: 7-32
+    street: "lic building"
+    city: tuni
+    pin: 533401
+    type: current
+
+  - doorNo: 7-32
+    street: "lic building
+    city: tuni
+    pin: 533401
+    type: permanant
+  skills:
+  - java
+  - devops
+  - cloud

@@ -1,0 +1,21 @@
+{
+    "name": "Jayani",
+    "dob" : "01-01-01",
+    "addresses" : [
+        {
+            "type" : "current",
+            "doorno" : "1-23",
+            "street" : "vinayaka nagar" ,
+            "city" : "banglore",
+            "pin" : 654789
+        },
+        {
+            "type" : "permanent",
+            "doorno" : "1-23",
+            "street" : "vinayaka nagar" ,
+            "city" : "banglore",
+            "pin" : 654789
+        }
+    ],
+    "skills" : ["java", "devops", "cloud"]
+}
