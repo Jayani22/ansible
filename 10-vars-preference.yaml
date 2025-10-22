@@ -8,10 +8,10 @@
   vars_prompt:
   - name: NAME
     prompt: What is your name?
-    private: true
+    private: false
   tasks:
   - name: testing variables preference
     vars:
-      NAME: from task level
+      NAME: from task level 
     ansible.builtin.debug:
       msg: "Name: {{ NAME }}"
