@@ -5,7 +5,6 @@
     technologies: DevOps, Linux, Shell, Ansible # string
     name: "Jayani M"
     gmail: mutcherlajayani@gmail.com
-    ipaddress: "s"
     # dictionary == map
     tags:
       Application: payment
