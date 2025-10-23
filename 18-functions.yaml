@@ -4,7 +4,7 @@
   vars:
     technologies: DevOps, Linux, Shell, Ansible # string
     name: "Jayani M"
-    gmail: mutcherlajayani@gmail.com
+    gmail: MUTCHERLAJAYANI@GMAIL.com
     # dictionary == map
     tags:
       Application: payment
