@@ -1,38 +1,40 @@
-- name: "jayani"
+- name: "sivakumar reddy m"
   dob: "01-01-01"
   age: 21
   addresses:
-  - doorNo: 7-32
-    street: "lic building"
-    city: tuni
-    pin: 533401
+    # Object
+  - doorNo: 4-32
+    street: "gandhi nagar"
+    city: hyderabd
+    pin: 534565
     type: current
-
-  - doorNo: 7-32
-    street: "lic building
-    city: tuni
-    pin: 533401
-    type: current
+  
+  - doorNo: 4-32
+    street: "gandhi nagar"
+    city: hyderabd
+    pin: 534565
+    type: perm
   skills:
   - java
   - devops
   - cloud
 
-- name: "suresh"
+- name: "ramesh"
   dob: "01-01-01"
   age: 21
   addresses:
-  - doorNo: 7-32
-    street: "lic building"
-    city: tuni
-    pin: 533401
+    # Object
+  - doorNo: 4-32
+    street: "gandhi nagar"
+    city: hyderabd
+    pin: 534565
     type: current
-
-  - doorNo: 7-32
-    street: "lic building
-    city: tuni
-    pin: 533401
-    type: permanant
+  
+  - doorNo: 4-32
+    street: "gandhi nagar"
+    city: hyderabd
+    pin: 534565
+    type: perm
   skills:
   - java
   - devops
