@@ -18,7 +18,7 @@ Ansible works in an **agentless architecture**, connecting to remote machines vi
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Ansible
 - Linux
